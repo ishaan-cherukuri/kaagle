@@ -1,8 +1,4 @@
-Got it 👍 Since your repo has both your Kaggle notebooks and the submission files, your README should make it clear what’s inside, what you achieved, and how someone can use it. Here’s a clean structure you can adapt:
-
----
-
-# Kaggle: Ames Housing Competition 🏡
+# Kaggle: Ames Housing Competition 
 
 This repository contains my work for the **Kaggle House Prices – Advanced Regression Techniques** competition.
 Out of 4,300+ participants, I placed in the **top 5% (231st place at the time of publishing)**.
