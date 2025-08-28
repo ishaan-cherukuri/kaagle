@@ -5,9 +5,10 @@ Out of 4,300+ participants, I placed in the **top 5% (231st place at the time of
 
 ## Contents
 
-* `notebooks/` → Jupyter notebooks I used for exploration, preprocessing, and modeling.
-* `submissions/` → Submission `.csv` files generated during the competition.
-* `data_description.txt` → Original Kaggle data description file for feature reference.
+* `cat_boost.ipynb` → Jupyter notebooks I used for exploration, preprocessing, and modeling.
+* `submissions.csv` → Submission `.csv` file generated during the competition.
+* `data/` → Data folder with files used for traning and testing as well as `data_description.txt`.
+* `env.yml` → Conda env `yml` file  to install dependencies.
 
 ## Approach
 
@@ -25,7 +26,7 @@ My solution focused on keeping things simple yet effective:
    * Experimented with XGBoost, Random Forest, and stacking (meta-ensembles).
 3. **Validation**
 
-   * Relied on **cross-validation (5–10 folds)** instead of leaderboard chasing.
+   * Relied on **cross-validation (3 folds)** instead of leaderboard chasing.
 
 ## Results
 
